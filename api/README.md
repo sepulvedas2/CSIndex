@@ -1,4 +1,4 @@
-# API RESTFUL
+# API RESTful
 
 ### SOBRE
 
@@ -8,8 +8,6 @@ Trabalho Prático da disciplina de Engenharia de Software II do curso de Sistema
 
 _Flask 1.0.2_  
 _Python 2.7.15rc1 (default, Apr 15 2018, 21:51:34) [GCC 7.3.0]_
-
-### INICIALIZAÇÃO
 
 ### IMPLEMENTAÇÃO
 
@@ -30,4 +28,4 @@ _(6) Número de professores de um determinado departamento que publicam em uma �
 _(7) Todos os papers de uma área (ano, título, deptos e autores)_  
 _(8) Todos os papers de uma área em um determinado ano_  
 _(9) Todos os papers de um departamento em uma área_  
-**SAÍDA:** arquivos .csv  
+**SAÍDAS:** arquivos .csv  
